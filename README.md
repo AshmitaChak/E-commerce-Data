@@ -44,8 +44,10 @@ This project features a **Power BI dashboard** built using a UK-based e-commerce
   - Customer segment breakdown via donut chart.
 - **Filters/Slicers**: Country, Invoice Date and Customer Segments.
 
-##  Screenshot
-![Dashboard View](C:\Users\ashmi\OneDrive\Desktop\J\DA notes to study)
+
+## 📸 Dashboard Preview
+![Dashboard Screenshot](images/dashboard.png)
+
 
 ##  Getting Started
 1. Download the dataset from Kaggle and place it at `datasets/raw_data.csv`.
