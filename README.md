@@ -45,8 +45,9 @@ This project features a **Power BI dashboard** built using a UK-based e-commerce
 - **Filters/Slicers**: Country, Invoice Date and Customer Segments.
 
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](images/dashboard.png)
+## 📊 Dashboard Preview
+![Dashboard Screenshot](images/ecommerce%20dashboard%20screenshot.png)
+
 
 
 ##  Getting Started
