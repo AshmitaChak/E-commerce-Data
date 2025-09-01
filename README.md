@@ -22,17 +22,17 @@ This project features a **Power BI dashboard** built using a UK-based e-commerce
 └── README.md
 
 ##  Preprocessing (Optional – Python + Pandas)
-If used, briefly describe key steps:
+
 - Loaded `raw_data.csv` using Pandas.
 - Removed rows with missing `CustomerID` or `Description`.
 - Filtered out negative `Quantity` values and zero-priced items.
 - Created `TotalAmount = Quantity × UnitPrice`.
 - Extracted Year-Month, Month, Day, Hour from `InvoiceDate`.
-- Saved final clean dataset (if needed) as `cleaned_data.csv`.
+- Saved final clean dataset as `cleaned_data.csv`.
 
 ##  Tools & Technologies
 - **Power BI Desktop** – Dashboard creation and visualization.
-- **Python (Pandas, NumPy)** – Data cleaning (if applicable).
+- **Python (Pandas, NumPy)** – Data cleaning.
 - **Kaggle** – Source of the dataset.
 
 ##  Dashboard Features
@@ -42,7 +42,7 @@ If used, briefly describe key steps:
   - Best sellers by revenue and quantity sold.
   - Revenue by country shown on a map.
   - Customer segment breakdown via donut chart.
-- **Filters/Slicers**: Country, Invoice Date (and optionally City or Quota for future enhancements).
+- **Filters/Slicers**: Country, Invoice Date and Customer Segments.
 
 ##  Screenshot
 ![Dashboard View](C:\Users\ashmi\OneDrive\Desktop\J\DA notes to study)
