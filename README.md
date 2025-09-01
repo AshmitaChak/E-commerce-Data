@@ -46,7 +46,8 @@ This project features a **Power BI dashboard** built using a UK-based e-commerce
 
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](images/ecommerce%20dashboard%20screenshot.png)
+![Dashboard Screenshot]!(images/e-comm dashboard.png)
+
 
 
 
